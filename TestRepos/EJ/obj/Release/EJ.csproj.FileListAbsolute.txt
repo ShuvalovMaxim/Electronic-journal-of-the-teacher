@@ -1,0 +1,74 @@
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\x86\sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\x64\sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\x86\e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\x64\e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\Model\Group.cs
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\EJ.exe.config
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\EJ.exe
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\EJ.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\EntityFramework.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\System.Data.SQLite.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\TestRepos.exe
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\TestRepos.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\TestRepos.exe.config
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\EntityFramework.xml
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\System.Data.SQLite.xml
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Release\EJ.Form1.resources
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Release\EJ.Properties.Resources.resources
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Release\EJ.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Release\EJ.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Release\EJ.exe
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Release\EJ.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\Calculations.exe
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\Calculations.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Release\Calculations.exe.config
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Release\EJ.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Release\EJ.res.resources
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Release\EJ.SplashScreen.resources
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Release\EJ.csproj.CopyComplete
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\x86\sqlite3.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\x64\sqlite3.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\x86\e_sqlite3.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\x64\e_sqlite3.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\Model\Group.cs
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\EJ.exe.config
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\EJ.exe
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\EJ.pdb
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\Calculations.exe
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\EntityFramework.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\log4net.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\System.Data.SQLite.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\TestRepos.exe
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\Calculations.pdb
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\Calculations.exe.config
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\TestRepos.pdb
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\TestRepos.exe.config
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\EntityFramework.xml
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\log4net.xml
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\System.Data.SQLite.xml
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\obj\Release\EJ.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\obj\Release\EJ.Form1.resources
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\obj\Release\EJ.Properties.Resources.resources
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\obj\Release\EJ.res.resources
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\obj\Release\EJ.SplashScreen.resources
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\obj\Release\EJ.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\obj\Release\EJ.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\obj\Release\EJ.csproj.CopyComplete
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\obj\Release\EJ.exe
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\obj\Release\EJ.pdb
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\SQLite-net.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\EJ\bin\Release\SQLite-net.xml

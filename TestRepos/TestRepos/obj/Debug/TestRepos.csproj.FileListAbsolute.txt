@@ -1,0 +1,84 @@
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\TestRepos.exe.config
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\TestRepos.exe
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\TestRepos.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\obj\Debug\TestRepos.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\obj\Debug\TestRepos.exe
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\obj\Debug\TestRepos.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\x86\sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\x64\sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.xml
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.xml
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\SQLite-net.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\SQLite-net.xml
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\Model\Group.cs
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\x86\sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\x64\sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\x86\e_sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\x64\e_sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\Model\Group.cs
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\TestRepos.exe.config
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\TestRepos.exe
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\TestRepos.pdb
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLite-net.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.core.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.xml
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLite-net.xml
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.xml
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.dll.config
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\obj\Debug\TestRepos.csprojAssemblyReference.cache
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\obj\Debug\TestRepos.csproj.CoreCompileInputs.cache
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\obj\Debug\TestRepos.csproj.CopyComplete
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\obj\Debug\TestRepos.exe
+D:\Курсовая ИСИТ\repo\TestRepos\TestRepos\obj\Debug\TestRepos.pdb
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\x86\sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\x64\sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\x86\e_sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\x64\e_sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\Model\Group.cs
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\TestRepos.exe.config
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\TestRepos.exe
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\TestRepos.pdb
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLite-net.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.core.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.xml
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\SQLite-net.xml
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.xml
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\bin\Debug\System.Data.SQLite.dll.config
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\obj\Debug\TestRepos.csprojAssemblyReference.cache
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\obj\Debug\TestRepos.csproj.CoreCompileInputs.cache
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\obj\Debug\TestRepos.csproj.CopyComplete
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\obj\Debug\TestRepos.exe
+E:\Курсовая ИСИТ\repo\TestRepos\TestRepos\obj\Debug\TestRepos.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\obj\Debug\TestRepos.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\obj\Debug\TestRepos.csproj.CopyComplete
