@@ -1,0 +1,11 @@
+C:\Users\Максим\Desktop\repo\TestRepos\WorkForExcel\bin\Release\WorkForExcel.exe.config
+C:\Users\Максим\Desktop\repo\TestRepos\WorkForExcel\bin\Release\WorkForExcel.exe
+C:\Users\Максим\Desktop\repo\TestRepos\WorkForExcel\bin\Release\WorkForExcel.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\WorkForExcel\bin\Release\WorkForExcel.xml
+C:\Users\Максим\Desktop\repo\TestRepos\WorkForExcel\obj\Release\WorkForExcel.vbprojAssemblyReference.cache
+C:\Users\Максим\Desktop\repo\TestRepos\WorkForExcel\obj\Release\WorkForExcel.Resources.resources
+C:\Users\Максим\Desktop\repo\TestRepos\WorkForExcel\obj\Release\WorkForExcel.vbproj.GenerateResource.cache
+C:\Users\Максим\Desktop\repo\TestRepos\WorkForExcel\obj\Release\WorkForExcel.vbproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\repo\TestRepos\WorkForExcel\obj\Release\WorkForExcel.exe
+C:\Users\Максим\Desktop\repo\TestRepos\WorkForExcel\obj\Release\WorkForExcel.xml
+C:\Users\Максим\Desktop\repo\TestRepos\WorkForExcel\obj\Release\WorkForExcel.pdb

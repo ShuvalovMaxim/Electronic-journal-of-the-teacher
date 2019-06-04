@@ -1,0 +1,28 @@
+2019-06-02 19:42:34.6721 | EJ.Form1+<button3_Click>d__53.MoveNext | INFO | 
+ Нажата кнопка 'Загрузить записи' 
+
+2019-06-02 19:42:37.0335 | EJ.Form1.<button3_Click>b__53_1 | INFO | 
+ Данные не были загружены, так как у группы Пиб-17и1 отсутствует Первая точка по дисциплине ИСИТ в семестре Весенний|2017/2018 
+
+2019-06-02 19:43:17.3950 | EJ.Form1+<button3_Click>d__53.MoveNext | INFO | 
+ Нажата кнопка 'Загрузить записи' 
+
+2019-06-02 19:43:19.4681 | EJ.Form1.<button3_Click>b__53_1 | INFO | 
+ Данные не были загружены, так как у группы Пиб-17и1 отсутствует Первая точка по дисциплине ИСИТ в семестре Весенний|2017/2018 
+
+2019-06-02 19:44:15.2836 | EJ.Form1+<btnSave_Click>d__55.MoveNext | WARN | 
+ При сохранении данных произошла ошибка System.FormatException: Входная строка имела неверный формат.
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Convert.ToInt32(String value)
+   в EJ.Form1.<btnSave_Click>d__55.MoveNext() в C:\Users\Максим\Desktop\repo\TestRepos\EJ\Form1.cs:строка 287 
+
+2019-06-02 19:44:16.7194 | EJ.Form1+<button3_Click>d__53.MoveNext | INFO | 
+ Нажата кнопка 'Загрузить записи' 
+
+2019-06-02 19:47:33.8944 | EJ.Form1+<button3_Click>d__53.MoveNext | INFO | 
+ Нажата кнопка 'Загрузить записи' 
+
+2019-06-02 19:47:36.4574 | EJ.Form1.<button3_Click>b__53_1 | INFO | 
+ Данные не были загружены, так как у группы  отсутствует  точка по дисциплине  в семестре  
+
