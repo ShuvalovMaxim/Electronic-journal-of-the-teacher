@@ -1,0 +1,57 @@
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\Calculations.exe.config
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\Calculations.exe
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\Calculations.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\obj\Debug\Calculations.exe
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\obj\Debug\Calculations.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\x86\sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\x64\sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\Model\Group.cs
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\TestRepos.exe
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\System.Data.SQLite.dll
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\TestRepos.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\TestRepos.exe.config
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\System.Data.SQLite.xml
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\bin\Debug\System.Data.SQLite.dll.config
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\x86\sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\x64\sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\x86\e_sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\x64\e_sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\Model\Group.cs
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\Calculations.exe.config
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\Calculations.exe
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\Calculations.pdb
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\TestRepos.exe
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\System.Data.SQLite.dll
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\TestRepos.pdb
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\TestRepos.exe.config
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\System.Data.SQLite.xml
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\System.Data.SQLite.dll.config
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\obj\Debug\Calculations.csprojAssemblyReference.cache
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\obj\Debug\Calculations.csproj.CopyComplete
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\obj\Debug\Calculations.exe
+D:\Курсовая ИСИТ\repo\TestRepos\Calculations\obj\Debug\Calculations.pdb
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\x86\sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\x64\sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\x86\e_sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\x64\e_sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\Model\Group.cs
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\Calculations.exe.config
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\Calculations.exe
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\Calculations.pdb
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\TestRepos.exe
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\System.Data.SQLite.dll
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\TestRepos.pdb
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\TestRepos.exe.config
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\System.Data.SQLite.xml
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\bin\Debug\System.Data.SQLite.dll.config
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\obj\Debug\Calculations.csprojAssemblyReference.cache
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\obj\Debug\Calculations.csproj.CopyComplete
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\obj\Debug\Calculations.exe
+E:\Курсовая ИСИТ\repo\TestRepos\Calculations\obj\Debug\Calculations.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\obj\Debug\Calculations.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\repo\TestRepos\Calculations\obj\Debug\Calculations.csproj.CopyComplete

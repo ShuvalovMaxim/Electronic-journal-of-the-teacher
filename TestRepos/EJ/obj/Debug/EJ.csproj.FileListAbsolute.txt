@@ -1,0 +1,97 @@
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\x86\sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\x64\sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\Model\Group.cs
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\EJ.exe.config
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\EJ.exe
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\EJ.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\TestRepos.exe
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\TestRepos.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\TestRepos.exe.config
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.xml
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Debug\EJ.Form1.resources
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Debug\EJ.Properties.Resources.resources
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Debug\EJ.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Debug\EJ.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Debug\EJ.exe
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Debug\EJ.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\EntityFramework.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\EntityFramework.xml
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\Calculations.exe
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\Calculations.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\bin\Debug\Calculations.exe.config
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Debug\EJ.res.resources
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\x86\sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\x64\sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\x86\e_sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\x64\e_sqlite3.dll
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\Model\Group.cs
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EJ.exe.config
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EJ.exe
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EJ.pdb
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\Calculations.exe
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EntityFramework.dll
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EntityFramework.SqlServer.dll
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.dll
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\TestRepos.exe
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\Calculations.pdb
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\Calculations.exe.config
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\TestRepos.pdb
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\TestRepos.exe.config
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EntityFramework.xml
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EntityFramework.SqlServer.xml
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.xml
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.dll.config
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.csprojAssemblyReference.cache
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.Form1.resources
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.Properties.Resources.resources
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.res.resources
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.csproj.GenerateResource.cache
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.csproj.CoreCompileInputs.cache
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.csproj.CopyComplete
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.exe
+D:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.pdb
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\x86\sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\x64\sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\x86\e_sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\x64\e_sqlite3.dll
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\Model\Group.cs
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EJ.exe.config
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EJ.exe
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EJ.pdb
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\Calculations.exe
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EntityFramework.dll
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.dll
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\TestRepos.exe
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\Calculations.pdb
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\Calculations.exe.config
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\TestRepos.pdb
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\TestRepos.exe.config
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EntityFramework.xml
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.xml
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\bin\Debug\System.Data.SQLite.dll.config
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.csprojAssemblyReference.cache
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.Form1.resources
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.Properties.Resources.resources
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.res.resources
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.csproj.GenerateResource.cache
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.csproj.CoreCompileInputs.cache
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.csproj.CopyComplete
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.exe
+E:\Курсовая ИСИТ\repo\TestRepos\EJ\obj\Debug\EJ.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Debug\EJ.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Debug\EJ.csproj.CopyComplete
+C:\Users\Максим\Desktop\repo\TestRepos\EJ\obj\Debug\EJ.SplashScreen.resources

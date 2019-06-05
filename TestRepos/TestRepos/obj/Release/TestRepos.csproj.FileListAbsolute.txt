@@ -1,0 +1,32 @@
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\x86\sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\x64\sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\x86\e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\x64\e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\Model\Group.cs
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\TestRepos.exe.config
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\TestRepos.exe
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\TestRepos.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\EntityFramework.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\SQLite-net.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\System.Data.SQLite.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\EntityFramework.xml
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\SQLite-net.xml
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\System.Data.SQLite.xml
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\obj\Release\TestRepos.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\obj\Release\TestRepos.exe
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\obj\Release\TestRepos.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\obj\Release\TestRepos.csproj.CopyComplete
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\obj\Release\TestRepos.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\TestRepos\obj\Release\TestRepos.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\TestRepos\obj\Release\TestRepos.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\TestRepos\obj\Release\TestRepos.exe
+C:\Users\Максим\Desktop\Резервные копии работ\repo\TestRepos\TestRepos\obj\Release\TestRepos.pdb

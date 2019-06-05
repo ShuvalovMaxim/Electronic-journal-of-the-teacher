@@ -1,0 +1,11 @@
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\bin\Debug\netcoreapp2.2\Debug.deps.json
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\bin\Debug\netcoreapp2.2\Debug.runtimeconfig.json
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\bin\Debug\netcoreapp2.2\Debug.runtimeconfig.dev.json
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\bin\Debug\netcoreapp2.2\Debug.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\bin\Debug\netcoreapp2.2\Debug.pdb
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\obj\Debug\netcoreapp2.2\Debug.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\obj\Debug\netcoreapp2.2\Debug.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\obj\Debug\netcoreapp2.2\Debug.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\obj\Debug\netcoreapp2.2\Debug.AssemblyInfo.cs
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\obj\Debug\netcoreapp2.2\Debug.dll
+C:\Users\Максим\Desktop\repo\TestRepos\TestRepos\bin\Debug\obj\Debug\netcoreapp2.2\Debug.pdb
