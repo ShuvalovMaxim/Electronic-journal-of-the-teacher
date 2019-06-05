@@ -93,8 +93,8 @@
             this.comboBoxListDiscipline.Name = "comboBoxListDiscipline";
             this.comboBoxListDiscipline.Size = new System.Drawing.Size(156, 21);
             this.comboBoxListDiscipline.TabIndex = 3;
-            this.comboBoxListDiscipline.SelectedIndexChanged += new System.EventHandler(this.comboboxListDiscipline_SelectedIndexChanged);
-            this.comboBoxListDiscipline.Leave += new System.EventHandler(this.button2_Click);
+            this.comboBoxListDiscipline.SelectedIndexChanged += new System.EventHandler(this.ComboboxListDiscipline_SelectedIndexChanged);
+            this.comboBoxListDiscipline.Leave += new System.EventHandler(this.Button2_Click);
             // 
             // comboBoxListGroups
             // 
@@ -105,7 +105,7 @@
             this.comboBoxListGroups.Name = "comboBoxListGroups";
             this.comboBoxListGroups.Size = new System.Drawing.Size(100, 21);
             this.comboBoxListGroups.TabIndex = 5;
-            this.comboBoxListGroups.SelectedValueChanged += new System.EventHandler(this.comboboxListGroup_SelectedIndexChanged);
+            this.comboBoxListGroups.SelectedValueChanged += new System.EventHandler(this.ComboboxListGroup_SelectedIndexChanged);
             // 
             // dataGridView1
             // 
@@ -123,8 +123,8 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(459, 392);
             this.dataGridView1.TabIndex = 7;
-            this.dataGridView1.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellDoubleClick);
-            this.dataGridView1.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellEndEdit);
+            this.dataGridView1.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DataGridView1_CellDoubleClick);
+            this.dataGridView1.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.DataGridView1_CellEndEdit);
             // 
             // columnFIO
             // 
@@ -237,7 +237,7 @@
             this.tbWeightLek.Name = "tbWeightLek";
             this.tbWeightLek.Size = new System.Drawing.Size(100, 20);
             this.tbWeightLek.TabIndex = 19;
-            this.tbWeightLek.TextChanged += new System.EventHandler(this.tbWeight_Click);
+            this.tbWeightLek.TextChanged += new System.EventHandler(this.TbWeight_Click);
             // 
             // tbCountLek
             // 
@@ -245,7 +245,7 @@
             this.tbCountLek.Name = "tbCountLek";
             this.tbCountLek.Size = new System.Drawing.Size(100, 20);
             this.tbCountLek.TabIndex = 20;
-            this.tbCountLek.TextChanged += new System.EventHandler(this.tbCount_Click);
+            this.tbCountLek.TextChanged += new System.EventHandler(this.TbCount_Click);
             // 
             // tbCountPrac
             // 
@@ -403,9 +403,9 @@
             this.btnCalc.TabIndex = 35;
             this.btnCalc.Text = "Посчитать баллы";
             this.btnCalc.UseVisualStyleBackColor = false;
-            this.btnCalc.Click += new System.EventHandler(this.btnCalc_Click);
-            this.btnCalc.MouseEnter += new System.EventHandler(this.btnCalc_MouseEnter);
-            this.btnCalc.MouseLeave += new System.EventHandler(this.btnCalc_MouseLeave);
+            this.btnCalc.Click += new System.EventHandler(this.BtnCalc_Click);
+            this.btnCalc.MouseEnter += new System.EventHandler(this.BtnCalc_MouseEnter);
+            this.btnCalc.MouseLeave += new System.EventHandler(this.BtnCalc_MouseLeave);
             // 
             // btnCloseDataGrid2
             // 
@@ -419,9 +419,9 @@
             this.btnCloseDataGrid2.TabIndex = 31;
             this.btnCloseDataGrid2.Text = "Добавить точку";
             this.btnCloseDataGrid2.UseVisualStyleBackColor = false;
-            this.btnCloseDataGrid2.Click += new System.EventHandler(this.btnAddCp_Click);
-            this.btnCloseDataGrid2.MouseEnter += new System.EventHandler(this.btnAddCp_MouseEnter);
-            this.btnCloseDataGrid2.MouseLeave += new System.EventHandler(this.btnAddCp_MouseLeave);
+            this.btnCloseDataGrid2.Click += new System.EventHandler(this.BtnAddCp_Click);
+            this.btnCloseDataGrid2.MouseEnter += new System.EventHandler(this.BtnAddCp_MouseEnter);
+            this.btnCloseDataGrid2.MouseLeave += new System.EventHandler(this.BtnAddCp_MouseLeave);
             // 
             // btnAddTeacher
             // 
@@ -435,9 +435,9 @@
             this.btnAddTeacher.TabIndex = 14;
             this.btnAddTeacher.Text = "Добавить преподавателя";
             this.btnAddTeacher.UseVisualStyleBackColor = false;
-            this.btnAddTeacher.Click += new System.EventHandler(this.btnAddTeacher_Click);
-            this.btnAddTeacher.MouseEnter += new System.EventHandler(this.btnAddTeacher_MouseEnter);
-            this.btnAddTeacher.MouseLeave += new System.EventHandler(this.btnAddTeacher_MouseLeave);
+            this.btnAddTeacher.Click += new System.EventHandler(this.BtnAddTeacher_Click);
+            this.btnAddTeacher.MouseEnter += new System.EventHandler(this.BtnAddTeacher_MouseEnter);
+            this.btnAddTeacher.MouseLeave += new System.EventHandler(this.BtnAddTeacher_MouseLeave);
             // 
             // btnAddDiscipline
             // 
@@ -451,9 +451,9 @@
             this.btnAddDiscipline.TabIndex = 13;
             this.btnAddDiscipline.Text = "Добавить дисциплину";
             this.btnAddDiscipline.UseVisualStyleBackColor = false;
-            this.btnAddDiscipline.Click += new System.EventHandler(this.btnAddDiscipline_Click);
-            this.btnAddDiscipline.MouseEnter += new System.EventHandler(this.btnAddDiscipline_MouseEnter);
-            this.btnAddDiscipline.MouseLeave += new System.EventHandler(this.btnAddDiscipline_MouseLeave);
+            this.btnAddDiscipline.Click += new System.EventHandler(this.BtnAddDiscipline_Click);
+            this.btnAddDiscipline.MouseEnter += new System.EventHandler(this.BtnAddDiscipline_MouseEnter);
+            this.btnAddDiscipline.MouseLeave += new System.EventHandler(this.BtnAddDiscipline_MouseLeave);
             // 
             // btnAddGroup
             // 
@@ -467,9 +467,9 @@
             this.btnAddGroup.TabIndex = 11;
             this.btnAddGroup.Text = "Добавить группу";
             this.btnAddGroup.UseVisualStyleBackColor = false;
-            this.btnAddGroup.Click += new System.EventHandler(this.btnAddGroup_Click);
-            this.btnAddGroup.MouseEnter += new System.EventHandler(this.btnAddGroup_MouseEnter);
-            this.btnAddGroup.MouseLeave += new System.EventHandler(this.btnAddGroup_MouseLeave);
+            this.btnAddGroup.Click += new System.EventHandler(this.BtnAddGroup_Click);
+            this.btnAddGroup.MouseEnter += new System.EventHandler(this.BtnAddGroup_MouseEnter);
+            this.btnAddGroup.MouseLeave += new System.EventHandler(this.BtnAddGroup_MouseLeave);
             // 
             // btnAddLines
             // 
@@ -484,9 +484,9 @@
             this.btnAddLines.TabIndex = 10;
             this.btnAddLines.Text = "Добавить пустую строку";
             this.btnAddLines.UseVisualStyleBackColor = false;
-            this.btnAddLines.Click += new System.EventHandler(this.btnAddLines_Click);
-            this.btnAddLines.MouseEnter += new System.EventHandler(this.btnAddLines_MouseEnter);
-            this.btnAddLines.MouseLeave += new System.EventHandler(this.btnAddLines_MouseLeave);
+            this.btnAddLines.Click += new System.EventHandler(this.BtnAddLines_Click);
+            this.btnAddLines.MouseEnter += new System.EventHandler(this.BtnAddLines_MouseEnter);
+            this.btnAddLines.MouseLeave += new System.EventHandler(this.BtnAddLines_MouseLeave);
             // 
             // btnSave
             // 
@@ -500,9 +500,9 @@
             this.btnSave.TabIndex = 9;
             this.btnSave.Text = "Сохранить";
             this.btnSave.UseVisualStyleBackColor = false;
-            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
-            this.btnSave.MouseEnter += new System.EventHandler(this.buttons_MouseEnter);
-            this.btnSave.MouseLeave += new System.EventHandler(this.btnSave_MouseLeave);
+            this.btnSave.Click += new System.EventHandler(this.BtnSave_Click);
+            this.btnSave.MouseEnter += new System.EventHandler(this.Buttons_MouseEnter);
+            this.btnSave.MouseLeave += new System.EventHandler(this.BtnSave_MouseLeave);
             // 
             // button3
             // 
@@ -516,9 +516,9 @@
             this.button3.TabIndex = 8;
             this.button3.Text = "Загрузить записи";
             this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
-            this.button3.MouseEnter += new System.EventHandler(this.button3_MouseEnter);
-            this.button3.MouseLeave += new System.EventHandler(this.button3_MouseLeave);
+            this.button3.Click += new System.EventHandler(this.Button3_Click);
+            this.button3.MouseEnter += new System.EventHandler(this.Button3_MouseEnter);
+            this.button3.MouseLeave += new System.EventHandler(this.Button3_MouseLeave);
             // 
             // label8
             // 
@@ -578,9 +578,9 @@
             this.btnCloseTurn.TabIndex = 43;
             this.btnCloseTurn.Text = "Свернуть занятие";
             this.btnCloseTurn.UseVisualStyleBackColor = false;
-            this.btnCloseTurn.Click += new System.EventHandler(this.btnCloseTurn_Click);
-            this.btnCloseTurn.MouseEnter += new System.EventHandler(this.btnCloseTurn_MouseEnter);
-            this.btnCloseTurn.MouseLeave += new System.EventHandler(this.btnCloseTurn_MouseLeave);
+            this.btnCloseTurn.Click += new System.EventHandler(this.BtnCloseTurn_Click);
+            this.btnCloseTurn.MouseEnter += new System.EventHandler(this.BtnCloseTurn_MouseEnter);
+            this.btnCloseTurn.MouseLeave += new System.EventHandler(this.BtnCloseTurn_MouseLeave);
             // 
             // lstBCp
             // 

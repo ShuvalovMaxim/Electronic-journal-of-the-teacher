@@ -29,7 +29,7 @@ namespace EJ
         public IEnumerable<Teacher> TeachersList { get; private set; }
         public IEnumerable<Term> TermList { get; private set; }
 
-        ToolTip toolTip = new ToolTip();
+        readonly ToolTip toolTip = new ToolTip();
 
         public string GroupName;
 
@@ -52,7 +52,7 @@ namespace EJ
             backGroundButtonsMouseEnter = res.BackGroundButtonMouseEnter,
             backGroundButtons = res.BackGroundButton;
 
-        private static Logger _logger = LogManager.GetCurrentClassLogger();
+        private static readonly Logger _logger = LogManager.GetCurrentClassLogger();
 
         public Form1()
         {
@@ -76,9 +76,9 @@ namespace EJ
             reposDiscipline = RepositoryFactory<Discipline>.Create();
             TeachersList = reposTeacher.GetAll();
             TermList = reposTerm.GetAll();
-            this.comboBoxNameCP.SelectedIndexChanged += new EventHandler(comboboxNameCP_SelectedIndexChanged);
-            this.comboBoxTeacherName.SelectedIndexChanged += new EventHandler(comboboxTeacherName_SelectedIndexChanged);
-            this.cmbTerm.SelectedIndexChanged += new EventHandler(comboboxListTerm_SelectedIndexChanged);
+            this.comboBoxNameCP.SelectedIndexChanged += new EventHandler(ComboboxNameCP_SelectedIndexChanged);
+            this.comboBoxTeacherName.SelectedIndexChanged += new EventHandler(ComboboxTeacherName_SelectedIndexChanged);
+            this.cmbTerm.SelectedIndexChanged += new EventHandler(ComboboxListTerm_SelectedIndexChanged);
             AddItemsTbCp();
             this.BringToFront();
         }
@@ -92,7 +92,7 @@ namespace EJ
         {
             this.BeginInvoke(new MethodInvoker(a));
         }
-        private async void comboboxTeacherName_SelectedIndexChanged(object sender, EventArgs e)
+        private async void ComboboxTeacherName_SelectedIndexChanged(object sender, EventArgs e)
         {
             try
             {
@@ -116,7 +116,7 @@ namespace EJ
 
         }
 
-        private void comboboxListTerm_SelectedIndexChanged(object sender, EventArgs e)
+        private void ComboboxListTerm_SelectedIndexChanged(object sender, EventArgs e)
         {
             listCpForGroupAndDiscipline.Clear();
 
@@ -126,8 +126,6 @@ namespace EJ
 
             foreach (var cp in list)
                 listCpForGroupAndDiscipline.Add(cp);
-
-            list = null;
             lstBCp.DataSource = listCpForGroupAndDiscipline;
         }
 
@@ -136,7 +134,6 @@ namespace EJ
             if (list.Count() != 0)
                 foreach (var item in list)
                     comboBox.Items.Add(item);
-            list = null;
         }
 
         private async void ComboBoxTeacherName_Click(object sender, EventArgs e)
@@ -157,22 +154,22 @@ namespace EJ
             TeachersList.ToList().Clear();
         }
 
-        private void comboboxListDiscipline_SelectedIndexChanged(object sender, EventArgs e)
+        private void ComboboxListDiscipline_SelectedIndexChanged(object sender, EventArgs e)
         {
             DisciplineName = comboBoxListDiscipline.Items[comboBoxListDiscipline.SelectedIndex].ToString();
 
             comboBoxListGroups.Items.Clear();
         }
 
-        private void comboboxNameCP_SelectedIndexChanged(object sender, EventArgs e)
+        private void ComboboxNameCP_SelectedIndexChanged(object sender, EventArgs e)
         {
             listStatementLine.Clear();
             CpName = comboBoxNameCP.Items[comboBoxNameCP.SelectedIndex].ToString();
-            button3_Click(sender, e);
+            Button3_Click(sender, e);
 
         }
 
-        private void comboboxListGroup_SelectedIndexChanged(object sender, EventArgs e)
+        private void ComboboxListGroup_SelectedIndexChanged(object sender, EventArgs e)
         {
             listCpForGroupAndDiscipline.Clear();
 
@@ -180,9 +177,9 @@ namespace EJ
 
         }
 
-        private async void button2_Click(object sender, EventArgs e)
+        private async void Button2_Click(object sender, EventArgs e)
         {
-            this.comboBoxListDiscipline.SelectedIndexChanged += new EventHandler(comboboxListDiscipline_SelectedIndexChanged);
+            this.comboBoxListDiscipline.SelectedIndexChanged += new EventHandler(ComboboxListDiscipline_SelectedIndexChanged);
 
             await Task.Factory.StartNew(() =>
             {
@@ -214,7 +211,7 @@ namespace EJ
             tbWeghtMore.Text = Convert.ToString(cp.WeightMore);
         }
 
-        private async void button3_Click(object sender, EventArgs e)
+        private async void Button3_Click(object sender, EventArgs e)
         {
             _logger.Info("Нажата кнопка '{0}'", button3.Text);
             try
@@ -227,7 +224,7 @@ namespace EJ
 
                         var reposStudent = RepositoryFactory<Student>.Create();
 
-                        this.comboBoxListGroups.SelectedIndexChanged += new EventHandler(comboboxListGroup_SelectedIndexChanged);
+                        this.comboBoxListGroups.SelectedIndexChanged += new EventHandler(ComboboxListGroup_SelectedIndexChanged);
 
                         var _idGroup = reposStudent.GetIdGroupForStudent(GroupName);
                         var _idCp = WorkWithDB.GetIdCp(CpName, _idGroup, DisciplineName, TermName);
@@ -288,7 +285,7 @@ namespace EJ
             }
         }
 
-        private async void btnSave_Click(object sender, EventArgs e)
+        private async void BtnSave_Click(object sender, EventArgs e)
         {
             try
             {
@@ -367,12 +364,12 @@ namespace EJ
             }
         }
 
-        private void btnAddLines_Click(object sender, EventArgs e)
+        private void BtnAddLines_Click(object sender, EventArgs e)
         {
             listStatementLine.Add(new StatementLine("", 0, 0, 0, 0, 0));
         }
 
-        private async void btnAddGroup_Click(object sender, EventArgs e)
+        private async void BtnAddGroup_Click(object sender, EventArgs e)
         {
             Form formAddGroup = new Form();
             TextBox textBoxNumberGroup = new TextBox();
@@ -541,8 +538,10 @@ namespace EJ
             labelFilePath.Text = "Путь к файлу: ";
 
 
-            OpenFileDialog openFileDialog = new OpenFileDialog();
-            openFileDialog.Filter = "Файлы xlsx|*.xlsx";
+            OpenFileDialog openFileDialog = new OpenFileDialog
+            {
+                Filter = "Файлы xlsx|*.xlsx"
+            };
 
             //Блок кода, работающий с кнопками
             Button btnAddStudents = new Button
@@ -581,7 +580,7 @@ namespace EJ
 
             btnAddStudents.MouseClick += (send, args) =>
             {
-                OnBtnAddStudents.Invoke(sender, EventArgs.Empty);
+                OnBtnAddStudents?.Invoke(sender, EventArgs.Empty);
             }; // Кнопка в окне добавления группы          
 
            
@@ -624,7 +623,7 @@ namespace EJ
             formAddStudents.Show();
         }
 
-        private void btnAddDiscipline_Click(object sender, EventArgs e)
+        private void BtnAddDiscipline_Click(object sender, EventArgs e)
         {
             Form formAddDiscipline = new Form();
             TextBox textBoxNameDiscipline = new TextBox();
@@ -722,7 +721,7 @@ namespace EJ
             formAddDiscipline.Show();
         }
 
-        private void btnAddTeacher_Click(object sender, EventArgs e)
+        private void BtnAddTeacher_Click(object sender, EventArgs e)
         {
             Form formAddTeacher = new Form();
             TextBox textBoxNameTeacher = new TextBox();
@@ -798,7 +797,7 @@ namespace EJ
             formAddTeacher.Show();
         }
 
-        private void btnAddCp_Click(object sender, EventArgs e)
+        private void BtnAddCp_Click(object sender, EventArgs e)
         {
             int sum = 0;
             try
@@ -850,11 +849,11 @@ namespace EJ
             }
 
             listCpForGroup = null;
-            sumCp = default(int);
-            sum = default(int);
+            sumCp = default;
+            sum = default;
         }
 
-        private async void calcul()
+        private async void Calcul()
         {
             for (int i = 0; i < listStatementLine.Count; i++)
             {
@@ -878,9 +877,9 @@ namespace EJ
             }
         }
 
-        private void btnCalc_Click(object sender, EventArgs e) => calcul();
+        private void BtnCalc_Click(object sender, EventArgs e) => Calcul();
 
-        private void tbWeight_Click(object sender, EventArgs e)
+        private void TbWeight_Click(object sender, EventArgs e)
         {
             tbWeightLek.BackColor = Color.White;
             tbWeightLab.BackColor = Color.White;
@@ -888,7 +887,7 @@ namespace EJ
             tbWeghtMore.BackColor = Color.White;
         }
 
-        private void tbCount_Click(object sender, EventArgs e)
+        private void TbCount_Click(object sender, EventArgs e)
         {
             tbCountLek.BackColor = Color.White;
             tbCountLab.BackColor = Color.White;
@@ -902,7 +901,7 @@ namespace EJ
             comboBoxNameCP.Items.Add("Третья");
         }
 
-        private async void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        private async void DataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             await Task.Factory.StartNew(() =>
             {
@@ -950,7 +949,7 @@ namespace EJ
             });
         }
 
-        private async void btnCloseTurn_Click(object sender, EventArgs e)
+        private async void BtnCloseTurn_Click(object sender, EventArgs e)
         {
             try
             {
@@ -1002,7 +1001,7 @@ namespace EJ
 
                         dataGridView1[columnName, nameStudent].Value = CalcPointForCp.CalcScoreLabOrPrac(listWork); // Считаем виды работ, в которых есть разворот
                         dataGridView1.ReadOnly = false;
-                        calcul();
+                        Calcul();
                         listWork.Clear();
                         listTurn.Clear();
                     });
@@ -1015,7 +1014,7 @@ namespace EJ
             }
         }
 
-        private void dataGridView1_CellEndEdit(object sender, DataGridViewCellEventArgs e)
+        private void DataGridView1_CellEndEdit(object sender, DataGridViewCellEventArgs e)
         {
             if (Convert.ToString(dataGridView1.Columns[dataGridView1.CurrentCell.ColumnIndex].HeaderText) == "ФИО")
             {
@@ -1034,92 +1033,92 @@ namespace EJ
 
         //Drawing
 
-        private void button3_MouseEnter(object sender, EventArgs e)
+        private void Button3_MouseEnter(object sender, EventArgs e)
         {
             button3.BackColor = Color.FromArgb(255, 247, 101);
         }
 
-        private void button3_MouseLeave(object sender, EventArgs e)
+        private void Button3_MouseLeave(object sender, EventArgs e)
         {
             button3.BackColor = Color.FromArgb(57, 230, 57);
         }
 
-        private void btnAddLines_MouseEnter(object sender, EventArgs e)
+        private void BtnAddLines_MouseEnter(object sender, EventArgs e)
         {
             btnAddLines.BackColor = Color.FromArgb(255, 247, 101);
         }
 
-        private void btnAddLines_MouseLeave(object sender, EventArgs e)
+        private void BtnAddLines_MouseLeave(object sender, EventArgs e)
         {
             btnAddLines.BackColor = Color.FromArgb(57, 230, 57);
         }
 
-        private void btnAddGroup_MouseEnter(object sender, EventArgs e)
+        private void BtnAddGroup_MouseEnter(object sender, EventArgs e)
         {
             btnAddGroup.BackColor = Color.FromArgb(255, 247, 101);
         }
 
-        private void btnAddGroup_MouseLeave(object sender, EventArgs e)
+        private void BtnAddGroup_MouseLeave(object sender, EventArgs e)
         {
             btnAddGroup.BackColor = Color.FromArgb(57, 230, 57);
         }
 
-        private void btnAddDiscipline_MouseEnter(object sender, EventArgs e)
+        private void BtnAddDiscipline_MouseEnter(object sender, EventArgs e)
         {
             btnAddDiscipline.BackColor = Color.FromArgb(255, 247, 101);
         }
 
-        private void btnAddDiscipline_MouseLeave(object sender, EventArgs e)
+        private void BtnAddDiscipline_MouseLeave(object sender, EventArgs e)
         {
             btnAddDiscipline.BackColor = Color.FromArgb(57, 230, 57);
         }
 
-        private void btnAddTeacher_MouseEnter(object sender, EventArgs e)
+        private void BtnAddTeacher_MouseEnter(object sender, EventArgs e)
         {
             btnAddTeacher.BackColor = Color.FromArgb(255, 247, 101);
         }
 
-        private void btnAddTeacher_MouseLeave(object sender, EventArgs e)
+        private void BtnAddTeacher_MouseLeave(object sender, EventArgs e)
         {
             btnAddTeacher.BackColor = Color.FromArgb(57, 230, 57);
         }
 
-        private void btnAddCp_MouseEnter(object sender, EventArgs e)
+        private void BtnAddCp_MouseEnter(object sender, EventArgs e)
         {
             btnCloseDataGrid2.BackColor = Color.FromArgb(255, 247, 101);
         }
 
-        private void btnAddCp_MouseLeave(object sender, EventArgs e)
+        private void BtnAddCp_MouseLeave(object sender, EventArgs e)
         {
             btnCloseDataGrid2.BackColor = Color.FromArgb(57, 230, 57);
         }
 
-        private void btnCalc_MouseEnter(object sender, EventArgs e)
+        private void BtnCalc_MouseEnter(object sender, EventArgs e)
         {
             btnCalc.BackColor = Color.FromArgb(255, 247, 101);
         }
 
-        private void btnCalc_MouseLeave(object sender, EventArgs e)
+        private void BtnCalc_MouseLeave(object sender, EventArgs e)
         {
             btnCalc.BackColor = Color.FromArgb(57, 230, 57);
         }
 
-        private void btnCloseTurn_MouseEnter(object sender, EventArgs e)
+        private void BtnCloseTurn_MouseEnter(object sender, EventArgs e)
         {
             btnCloseTurn.BackColor = Color.FromArgb(255, 247, 101);
         }
 
-        private void btnCloseTurn_MouseLeave(object sender, EventArgs e)
+        private void BtnCloseTurn_MouseLeave(object sender, EventArgs e)
         {
             btnCloseTurn.BackColor = Color.FromArgb(57, 230, 57);
         }
 
-        private void btnSave_MouseLeave(object sender, EventArgs e)
+        private void BtnSave_MouseLeave(object sender, EventArgs e)
         {
             btnSave.BackColor = Color.FromArgb(57, 230, 57);
         }
 
-        private void buttons_MouseEnter(object sender, EventArgs e)
+        private void Buttons_MouseEnter(object sender, EventArgs e)
         {
             btnSave.BackColor = Color.FromArgb(255, 247, 101);
         }
